@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # packaging
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/Nicccolas/packaging/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Nicccolas/packaging/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/Nicccolas/packaging/graph/badge.svg)](https://app.codecov.io/gh/Nicccolas/packaging)
 <!-- badges: end -->
 
 The goal of packaging is to add 1
